@@ -1,5 +1,8 @@
 # Monit Configurations
 
+![Monit](https://i.imgur.com/9w4fOi6.png)
+
+
 - `aptitude -y install monit`
 - `cd /etc`
 - `git clone https://github.com/PageSpeed-Ninjas/monit.d.git`
