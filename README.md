@@ -1,4 +1,11 @@
-# Monit Configurations
+# Monit
+
+## Install Monit
+
+```bash
+wget https://raw.githubusercontent.com/PageSpeed-Ninjas/kit/master/monit.sh; chmod +x monit.sh; bash monit.sh
+```
+
 
 ![Monit](https://i.imgur.com/9w4fOi6.png)
 
