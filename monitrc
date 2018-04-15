@@ -11,6 +11,7 @@ set httpd port 2812
 signature disable 	# No server signature to send
 allow monit:monit
 
+# ln -s /monit.d/system/sshd sshd
 include /etc/monit/conf.d/*
 
 # include /etc/monit.d/monitrc.d/*
