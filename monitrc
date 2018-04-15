@@ -14,7 +14,7 @@ allow monit:monit
 include /etc/monit/conf.d/*
 
 # include /etc/monit.d/monitrc.d/*
-# include /etc/monit.d/database/*
+include /etc/monit.d/database/*
 # include /etc/monit.d/dns-dhcp/*
 # include /etc/monit.d/mail/*
 # include /etc/monit.d/network/*
